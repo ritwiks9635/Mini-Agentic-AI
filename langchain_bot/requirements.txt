@@ -1,0 +1,9 @@
+langchain
+langgraph
+pinecone-client[grpc]
+pypdf
+streamlit
+-U langchain-community
+-qU langchain-pinecone
+-U -q "google-generativeai>=0.8.3"
+--upgrade --quiet  langchain-google-genai
