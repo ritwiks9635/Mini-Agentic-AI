@@ -5,12 +5,19 @@ This project is an AI-powered query pipeline using **LangChain, Google Gemini AI
 ## **🚀 Features**  
 
 ✅ **Query Classification** – Automatically classifies queries into "weather", "rag", or "general".  
+
 ✅ **Weather API Integration** – Retrieves real-time weather information using OpenWeather API.  
+
 ✅ **Document Retrieval (RAG)** – Uses **Pinecone** and **Google Generative AI embeddings** to retrieve relevant documents for answering queries.  
+
 ✅ **General Query Handling** – Uses Gemini AI to answer open-ended questions.  
+
 ✅ **LangGraph Workflow** – Implements a **decision-based pipeline** for intelligent query handling.  
-✅ **Langsmith Workflow** - Implement Langsmith for evaluate LLM model performance. 
-✅ **Test Cases** - Implement Pytest workflow for test all Function poperly work or not. 
+
+✅ **Langsmith Workflow** - Implement Langsmith for evaluate LLM model performance.   
+
+✅ **Test Cases** - Implement Pytest workflow for test all Function poperly work or not.   
+
 ✅ **Streamlit UI** – Provides a simple, interactive web app for query input and responses.  
 
 ---
