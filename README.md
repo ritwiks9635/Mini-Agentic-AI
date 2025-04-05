@@ -1,5 +1,7 @@
 # **Mini-Agentic-AI**
 
+[Loom Video](https://www.loom.com/share/343ec0d686e54b30a592c46d728ade2a)
+
 This project is an AI-powered query pipeline using **LangChain, Google Gemini AI, Pinecone, and Streamlit** for an interactive query-handling web app.  
 
 ## **🚀 Features**  
